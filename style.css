@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    position: fixed;
+    border: 10px solid royalblue;
+    background-color: royalblue;
+    border-radius: 10px;
+}
+a:hover{
+    color: red;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+.cit{
+    font-size: 34px;
+    margin-top: 134px;
+}
